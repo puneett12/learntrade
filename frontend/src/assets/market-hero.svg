@@ -1,0 +1,51 @@
+<svg width="480" height="300" viewBox="0 0 480 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroGradient" x1="0" y1="0" x2="480" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34d399" />
+      <stop offset="1" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <rect width="480" height="300" rx="24" fill="url(#heroGradient)" />
+  <g opacity="0.15" stroke="#94a3b8" stroke-width="1">
+    <line x1="0" y1="60" x2="480" y2="60" />
+    <line x1="0" y1="120" x2="480" y2="120" />
+    <line x1="0" y1="180" x2="480" y2="180" />
+    <line x1="0" y1="240" x2="480" y2="240" />
+    <line x1="80" y1="0" x2="80" y2="300" />
+    <line x1="160" y1="0" x2="160" y2="300" />
+    <line x1="240" y1="0" x2="240" y2="300" />
+    <line x1="320" y1="0" x2="320" y2="300" />
+    <line x1="400" y1="0" x2="400" y2="300" />
+  </g>
+  <path
+    d="M40 215L88 180L128 210L168 165L210 195L260 140L310 160L360 115L408 150L450 110"
+    stroke="url(#lineGlow)"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <g stroke-width="4" stroke-linecap="round">
+    <path d="M88 150V210" stroke="#34d399" />
+    <rect x="80" y="160" width="16" height="36" rx="5" fill="#34d399" opacity="0.9" />
+    <path d="M168 130V198" stroke="#f97316" />
+    <rect x="160" y="150" width="16" height="32" rx="5" fill="#f97316" opacity="0.9" />
+    <path d="M260 110V190" stroke="#34d399" />
+    <rect x="252" y="128" width="16" height="40" rx="5" fill="#34d399" opacity="0.9" />
+    <path d="M360 90V170" stroke="#34d399" />
+    <rect x="352" y="110" width="16" height="42" rx="5" fill="#34d399" opacity="0.9" />
+    <path d="M408 100V180" stroke="#f97316" />
+    <rect x="400" y="132" width="16" height="34" rx="5" fill="#f97316" opacity="0.9" />
+  </g>
+  <circle cx="56" cy="70" r="6" fill="#38bdf8" />
+  <text x="72" y="73" fill="#e2e8f0" font-size="14" font-family="Arial, Helvetica, sans-serif">
+    Daily breakout zone
+  </text>
+  <text x="40" y="260" fill="#e2e8f0" opacity="0.6" font-size="12" font-family="Arial, Helvetica, sans-serif">
+    Visualizing disciplined trading on the LearnTrade platform
+  </text>
+</svg>
