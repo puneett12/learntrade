@@ -2,7 +2,7 @@
 
 **A full-stack stock market learning App.**
 
-LearnTrade turns stock market education into a structured, guided journey — modules and lessons to work through, quizzes to test what stuck, progress tracking to show how far you've come, and an AI tutor on call whenever a concept doesn't click. (⚠️AI Tutor is still in working)
+LearnTrade turns stock market education into a structured, guided journey — modules and lessons to work through, quizzes to test what stuck, progress tracking to show how far you've come, and an AI tutor on call whenever a concept doesn't click. ( ⚠️ AI Tutor is still in working )
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)
